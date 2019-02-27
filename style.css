@@ -1,0 +1,25 @@
+
+body {
+    background: lightgoldenrodyellow;
+    font-family: "Arial";
+    font-size: 10pt;
+    text-align: center;
+  
+  }
+  #para {
+    font-size: 14pt;
+    font-family: "TimesNewRoman";
+}
+
+h1 {
+    font-size: 20pt;
+    font-family: "Garamond";
+    text-align: end;
+    
+}
+h2 {
+    font-size: 12pt;
+    font-family: "NewTimesRoman";
+    font-variant-caps: titling-caps;
+    text-align: justify;
+}
